@@ -1,0 +1,61 @@
+# Virtual Environment
+bird_detection_env/
+venv/
+env/
+.venv/
+
+# Data files
+data/
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.mov
+downloads/
+
+# Model files
+*.pt
+*.onnx
+*.engine
+*.trt
+
+# Results and logs
+runs/
+wandb/
+evaluation_results/
+visualization_results/
+*.log
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
