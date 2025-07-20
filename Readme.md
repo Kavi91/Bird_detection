@@ -10,7 +10,7 @@ This university project implements a state-of-the-art bird detection system capa
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/Kavi91/Bird_detection.git
 cd Bird_detection
 
 # Run automated setup (recommended)
